@@ -12,7 +12,7 @@ Visit [Iosevka](https://github.com/be5invis/Iosevka) for a full feature list bre
 
 This repository hosts a patched nerd font of the latest `SuperTTC` package, which is the preferred and optimized package for desktop use. I am maintaining this version as an alternative to the official nerd font package due to the file size decrease and the performance increase I have experienced by patching the bundled TTC instead of individual TTFs.
 
-Notably, the startup speed of my terminal [st](https://github.com/onlyspxctre/st) as improved by around ~90-100ms.
+Notably, the startup speed of my terminal ([st](https://github.com/onlyspxctre/st)) has improved by around ~90-100ms.
 
 This is a **binary release repository**; view the [Releases](https://github.com/onlyspxctre/nerd-fonts-iosevka-superttc/releases) for the downloads.
 
